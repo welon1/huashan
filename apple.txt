@@ -1,9 +1,1 @@
-aaaa
-bb
-<<<<<<< HEAD
-ccccc
-ddddd edit branch test
-
-=======
-cccccc
->>>>>>> hot_fix
+iiiiiiiiiiiiiiiiiiix
